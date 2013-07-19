@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="TestMyLib">
+</Property><Property Name="Файл решения" Value="D:\inf\для курсача\db_school_sql\TestMyLib.sln">
+</Property><Property Name="Date" Value="18 декабря 2012 г.">
+</Property><Property Name="Time" Value="14:38">
+</Property></Properties><Event ErrorLevel="0" Project="TestMyLib" Source="TestMyLib\TestMyLib.csproj" Description="Проект успешно преобразован">
+</Event><Event ErrorLevel="3" Project="TestMyLib" Source="TestMyLib\TestMyLib.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="TestMyLib.sln" Description="Преобразование решения успешно завершено">
+</Event><Event ErrorLevel="3" Project="" Source="TestMyLib.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TestMyLib" Source="TestMyLib\TestMyLib.csproj" Description="Сканирование завершено: обновление для файлов проекта не требуется.">
+</Event></UpgradeLog>

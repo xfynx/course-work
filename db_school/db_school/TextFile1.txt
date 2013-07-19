@@ -1,0 +1,51 @@
+﻿пример добавления.
+			    var flat1 = new Flat()
+23	            {
+24	                FlatNumber = 1,
+25	                Residents = new List<Resident>()
+26	                 {
+27	                     new Resident()
+28	                     {
+29	                          Name = "Шаповалов Дмитрий Анатольевич",
+30	                           DateOfBirth = DateTime.Parse("1.12.1956"),
+31	                           Email = "shapa@domain.com"
+32	                     },
+33	                     new Resident()
+34	                     {
+35	                         Name = "Шаповалова Галина Ивановна",
+36	                         DateOfBirth = DateTime.Parse("14.10.1955")
+37	                     }
+38	                 }
+39	            };
+40	 
+41	            var flat2 = new Flat()
+42	            {
+43	                FlatNumber = 1,
+44	                Residents = new List<Resident>()
+45	                 {
+46	                     new Resident()
+47	                     {
+48	                          Name = "Иванов Сергей Станиславович",
+49	                           DateOfBirth = DateTime.Parse("2.06.1989"),
+50	                           Email = "stas.microsoft@domain.com"
+51	                     }                    
+52	                 }
+53	            };
+54	 
+55	            collection.Insert(flat1);
+56	            collection.Insert(flat2);
+57	        }
+
+			public class Flat
+60	        {
+61	            public int FlatNumber { get; set; }
+62	            public IList<Resident> Residents { get; set; }
+63	        }
+64	 
+65	        public class Resident
+66	        {
+67	            public string Name { get; set; }
+68	            public DateTime DateOfBirth { get; set; }
+69	            public string Email { get; set; }
+70	        }
+71	    }

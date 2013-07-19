@@ -1,0 +1,48 @@
+D:\inf\prog\csharp\MySQLLibExample\TestMyLib\Backup\TestMyLib\obj\Debug\ResolveAssemblyReference.cache
+D:\inf\prog\csharp\MySQLLibExample\TestMyLib\Backup\TestMyLib\obj\Debug\TestMyLib.Form1.resources
+D:\inf\prog\csharp\MySQLLibExample\TestMyLib\Backup\TestMyLib\obj\Debug\TestMyLib.Properties.Resources.resources
+D:\inf\prog\csharp\MySQLLibExample\TestMyLib\Backup\TestMyLib\obj\Debug\TestMyLib.csproj.GenerateResource.Cache
+D:\inf\prog\csharp\MySQLLibExample\TestMyLib\Backup\TestMyLib\bin\Debug\TestMyLib.exe
+D:\inf\prog\csharp\MySQLLibExample\TestMyLib\Backup\TestMyLib\bin\Debug\TestMyLib.pdb
+D:\inf\prog\csharp\MySQLLibExample\TestMyLib\Backup\TestMyLib\bin\Debug\MySqlLib.dll
+D:\inf\prog\csharp\MySQLLibExample\TestMyLib\Backup\TestMyLib\bin\Debug\MySqlLib.pdb
+D:\inf\prog\csharp\MySQLLibExample\TestMyLib\Backup\TestMyLib\bin\Debug\MySqlLib.xml
+D:\inf\prog\csharp\MySQLLibExample\TestMyLib\Backup\TestMyLib\obj\Debug\TestMyLib.exe
+D:\inf\prog\csharp\MySQLLibExample\TestMyLib\Backup\TestMyLib\obj\Debug\TestMyLib.pdb
+D:\inf\prog\csharp\MySQLLibExample\TestMyLib\Backup\TestMyLib\bin\Debug\MySql.Data.dll
+D:\inf\bd\Project_DB\TestMyLib\obj\Debug\TestMyLib.exe
+D:\inf\bd\Project_DB\TestMyLib\obj\Debug\TestMyLib.pdb
+D:\inf\bd\Project_DB\TestMyLib\bin\Debug\TestMyLib.exe.config
+D:\inf\bd\Project_DB\TestMyLib\bin\Debug\TestMyLib.exe
+D:\inf\bd\Project_DB\TestMyLib\bin\Debug\TestMyLib.pdb
+D:\inf\bd\Project_DB\TestMyLib\bin\Debug\MySql.Data.dll
+D:\inf\bd\Project_DB\TestMyLib\bin\Debug\MySqlLib.dll
+D:\inf\bd\Project_DB\TestMyLib\bin\Debug\MySqlLib.pdb
+D:\inf\bd\Project_DB\TestMyLib\bin\Debug\MySqlLib.xml
+D:\inf\bd\Project_DB\TestMyLib\obj\Debug\ResolveAssemblyReference.cache
+D:\inf\bd\Project_DB\TestMyLib\obj\Debug\TestMyLib.Form1.resources
+D:\inf\bd\Project_DB\TestMyLib\obj\Debug\TestMyLib.Properties.Resources.resources
+D:\inf\bd\Project_DB\TestMyLib\obj\Debug\TestMyLib.csproj.GenerateResource.Cache
+D:\inf\для курсача\db_school_sql\TestMyLib\obj\Debug\ResolveAssemblyReference.cache
+D:\inf\для курсача\db_school_sql\TestMyLib\obj\Debug\TestMyLib.Form1.resources
+D:\inf\для курсача\db_school_sql\TestMyLib\obj\Debug\TestMyLib.Properties.Resources.resources
+D:\inf\для курсача\db_school_sql\TestMyLib\obj\Debug\TestMyLib.exe
+D:\inf\для курсача\db_school_sql\TestMyLib\bin\Debug\TestMyLib.exe.config
+D:\inf\для курсача\db_school_sql\TestMyLib\bin\Debug\TestMyLib.exe
+D:\inf\для курсача\db_school_sql\TestMyLib\bin\Debug\TestMyLib.pdb
+D:\inf\для курсача\db_school_sql\TestMyLib\bin\Debug\MySql.Data.dll
+D:\inf\для курсача\db_school_sql\TestMyLib\bin\Debug\MySqlLib.dll
+D:\inf\для курсача\db_school_sql\TestMyLib\bin\Debug\MySqlLib.pdb
+D:\inf\для курсача\db_school_sql\TestMyLib\bin\Debug\MySqlLib.xml
+D:\inf\для курсача\db_school_sql\TestMyLib\obj\Debug\TestMyLib.pdb
+D:\inf\для курсача\db_school_sql\TestMyLib\bin\Debug\Interop.Microsoft.Office.Core.dll
+D:\inf\для курсача\db_school_sql\TestMyLib\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\inf\для курсача\db_school_sql\TestMyLib\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\inf\для курсача\db_school_sql\TestMyLib\obj\Debug\GenerateResource.read.1.tlog
+D:\inf\для курсача\db_school_sql\TestMyLib\obj\Debug\GenerateResource.write.1.tlog
+D:\inf\для курсача\на диск\db_school_sql\TestMyLib\bin\Debug\TestMyLib.exe.config
+D:\inf\для курсача\на диск\db_school_sql\TestMyLib\obj\Debug\TestMyLib.exe
+D:\inf\для курсача\на диск\db_school_sql\TestMyLib\obj\Debug\TestMyLib.pdb
+D:\inf\bd\mongo курсовая\на диск\db_school_sql\TestMyLib\bin\Debug\TestMyLib.exe.config
+D:\inf\bd\mongo курсовая\на диск\db_school_sql\TestMyLib\obj\Debug\TestMyLib.exe
+D:\inf\bd\mongo курсовая\на диск\db_school_sql\TestMyLib\obj\Debug\TestMyLib.pdb

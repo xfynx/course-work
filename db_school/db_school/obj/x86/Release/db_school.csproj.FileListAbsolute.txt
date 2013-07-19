@@ -1,0 +1,20 @@
+D:\inf\для курсача\db_school\db_school\bin\Release\db_school.exe
+D:\inf\для курсача\db_school\db_school\bin\Release\db_school.pdb
+D:\inf\для курсача\db_school\db_school\bin\Release\MongoDB.Bson.dll
+D:\inf\для курсача\db_school\db_school\bin\Release\MongoDB.Driver.dll
+D:\inf\для курсача\db_school\db_school\bin\Release\MongoDB.Bson.pdb
+D:\inf\для курсача\db_school\db_school\bin\Release\MongoDB.Bson.xml
+D:\inf\для курсача\db_school\db_school\bin\Release\MongoDB.Driver.pdb
+D:\inf\для курсача\db_school\db_school\bin\Release\MongoDB.Driver.xml
+D:\inf\для курсача\db_school\db_school\obj\x86\Release\ResolveAssemblyReference.cache
+D:\inf\для курсача\db_school\db_school\obj\x86\Release\db_school.AboutBox1.resources
+D:\inf\для курсача\db_school\db_school\obj\x86\Release\db_school.Form1.resources
+D:\inf\для курсача\db_school\db_school\obj\x86\Release\db_school.Properties.Resources.resources
+D:\inf\для курсача\db_school\db_school\obj\x86\Release\GenerateResource.read.1.tlog
+D:\inf\для курсача\db_school\db_school\obj\x86\Release\GenerateResource.write.1.tlog
+D:\inf\для курсача\db_school\db_school\obj\x86\Release\db_school.exe
+D:\inf\для курсача\db_school\db_school\obj\x86\Release\db_school.pdb
+D:\inf\для курсача\на диск\db_school\db_school\obj\x86\Release\db_school.exe
+D:\inf\для курсача\на диск\db_school\db_school\obj\x86\Release\db_school.pdb
+D:\inf\bd\mongo курсовая\на диск\db_school\db_school\obj\x86\Release\db_school.exe
+D:\inf\bd\mongo курсовая\на диск\db_school\db_school\obj\x86\Release\db_school.pdb
